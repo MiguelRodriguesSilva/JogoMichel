@@ -1,0 +1,34 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "DualShock4",
+            "id": "984661ff-e477-404c-9f73-94bf3183ba00",
+            "actions": [
+                {
+                    "name": "Pular",
+                    "type": "Button",
+                    "id": "21b83a13-2758-4110-9cb1-29307ed9885c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ca0d0694-ae42-4611-ae64-512c6a1da525",
+                    "path": "<Gamepad>/dpad/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pular",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
